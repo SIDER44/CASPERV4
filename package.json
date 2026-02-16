@@ -1,7 +1,7 @@
 {
-  "name": "casper2-ultimate-bot",
-  "version": "5.0.0",
-  "description": "Casper2 Ultimate Bot - Complete Cypher X Clone",
+  "name": "casper2-premium-bot",
+  "version": "4.0.0",
+  "description": "Casper2 Premium Bot - Cypher X Style with 300+ Commands",
   "main": "index.js",
   "type": "module",
   "engines": {
@@ -10,18 +10,14 @@
   "scripts": {
     "start": "node index.js"
   },
-  "keywords": ["whatsapp", "bot", "baileys", "cypher-x"],
-  "author": "",
+  "keywords": ["whatsapp", "bot", "baileys", "premium", "cypher"],
+  "author": ""almeer,
   "license": "MIT",
   "dependencies": {
     "@whiskeysockets/baileys": "^6.7.7",
     "express": "^4.19.2",
     "qrcode-terminal": "^0.12.0",
     "pino": "^9.0.0",
-    "axios": "^1.6.7",
-    "cheerio": "^1.0.0-rc.12",
-    "yt-search": "^2.11.0",
-    "node-fetch": "^3.3.2",
-    "jimp": "^0.22.12"
+    "axios": "^1.6.7"
   }
 }
