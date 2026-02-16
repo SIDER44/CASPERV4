@@ -9,7 +9,7 @@ export const config = {
   sudo: [],
   
   modes: {
-    public: false,
+    public: true,
     autoViewStatus: true,
     autoReactStatus: true,
     antiDelete: true,
