@@ -11,7 +11,7 @@
     "start": "node index.js"
   },
   "keywords": ["whatsapp", "bot", "baileys", "premium", "cypher"],
-  "author": ""almeer,
+  "author": "almeer",
   "license": "MIT",
   "dependencies": {
     "@whiskeysockets/baileys": "^6.7.7",
